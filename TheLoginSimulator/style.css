@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin:0;
+    font-family: Arial,sans-serif;
+    background-color:#f1f5f9;
+    color:#222;
+}
+input {
+    width:100%;
+    padding:12px;
+    margin-bottom:18px;
+    border:1px solid #cbd5e1;
+    border-radius:7px;
+    font-size: 15px;
+}
+button {
+    width:100%;
+    padding:13px;
+    border:none;
+    border-radius:7px;
+    background-color:#334155;
+    color:white;
+    font-size: 16px;
+    cursor:pointer;
+}
+button:hover{
+    background-color: #1e293b;
+}
+#loginMsg{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
