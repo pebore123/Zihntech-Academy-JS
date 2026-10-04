@@ -1,0 +1,21 @@
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background-color:#f5f3ff;
+    color:#222;
+}
+h1{
+    text-align: center;
+    color: #6d28d9;
+}
+#strength{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    min-height: 25px;
+}
